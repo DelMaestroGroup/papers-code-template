@@ -14,7 +14,7 @@ Abstract Here
 This repository includes links, code, scripts, and data to generate the figures in a paper.
 
 ### Requirements
-The data in this project was generated via exact diagonalization.  Everything included in the [data](https://github.com/DelMaestroGroup/papers-code-template/tree/master/data) directory was generated via:
+The data in this project was generated via exact diagonalization.  Everything included in the [data](https://github.com/DelMaestroGroup/papers-code-template/tree/main/data) directory was generated via:
 
 * [Dependency Name](https://dependencelink)
 
@@ -26,7 +26,7 @@ The creation of these materials was supported in part by the National Science Fo
 ### Figures
 
 #### Figure 01: Figure Name
-<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/master/figures/figure01.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/figure01.svg" width="400px">
 
 This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
