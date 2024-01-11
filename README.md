@@ -1,5 +1,5 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
-[![DOI](https://zenodo.org/badge/214220909.svg)](https://zenodo.org/badge/latestdoi/214220909)
+[![DOI](https://zenodo.org/badge/XXXXYYYY.svg)](https://zenodo.org/badge/latestdoi/XXXXYYYYY)
 
 # Paper Title
 
@@ -14,14 +14,17 @@ Abstract Here
 This repository includes links, code, scripts, and data to generate the figures in a paper.
 
 ### Requirements
-The data in this project was generated via exact diagonalization.  Everything included in the [data](https://github.com/DelMaestroGroup/papers-code-template/tree/main/data) directory was generated via:
+The data in this project was generated via ...  Processed data is included in the [data](https://github.com/DelMaestroGroup/papers-code-template/tree/main/data) directory and the full raw simulation data set is available online at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
 
-* [Dependency Name](https://dependencelink)
+1. A minimal environment to execute these notebooks can be installed via `pip install -r requirements.txt`
+2. [Dependency Name](https://dependencelink)
 
 ### Support
-The creation of these materials was supported in part by the National Science Foundation under Award No. DMR-1553991.
+The creation of these materials was supported in part by the {INSERT FUNDING AGENCY} under Award No. {AWARD NUMBER}.
 
-[<img width="100px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1553991)
+[<img width="100px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID={AWARD})
+
+[<img width="400px" src="https://science.osti.gov/assets/img/doe-logos/logo.png">]({LINK TO AWARD})
 
 ### Figures
 
