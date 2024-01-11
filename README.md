@@ -23,7 +23,7 @@ The data in this project was generated via ...  Processed data is included in th
 ### Support
 The creation of these materials was supported in part by the {INSERT FUNDING AGENCY} under Award No. [{AWARD NUMBER}](https://www.nsf.gov/awardsearch/simpleSearchResult?queryText=delmaestro).
 
-<img width="100px" src="https://new.nsf.gov/themes/custom/nsf_theme/components/images/logo/logo-desktop.svg">
+<img width="400px" src="https://new.nsf.gov/themes/custom/nsf_theme/components/images/logo/logo-desktop.svg">
 <img width="400px" src="https://science.osti.gov/assets/img/doe-logos/logo.png">
 
 
