@@ -1,5 +1,5 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
-[![DOI](https://zenodo.org/badge/XXXXYYYY.svg)](https://zenodo.org/badge/latestdoi/XXXXYYYYY)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://zenodo.org/badge/latestdoi/XXXXYYYYY)
 
 # Paper Title
 
@@ -18,13 +18,13 @@ The data in this project was generated via ...  Processed data is included in th
 
 1. A minimal environment to execute these notebooks can be installed via `pip install -r requirements.txt`
 2. [Dependency Name](https://dependencelink)
+3. ...
 
 ### Support
-The creation of these materials was supported in part by the {INSERT FUNDING AGENCY} under Award No. {AWARD NUMBER}.
+The creation of these materials was supported in part by the {INSERT FUNDING AGENCY} under Award No. [{AWARD NUMBER}](https://www.nsf.gov/awardsearch/simpleSearchResult?queryText=delmaestro).
 
-[<img width="100px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID={AWARD})
-
-[<img width="400px" src="https://science.osti.gov/assets/img/doe-logos/logo.png">]({LINK TO AWARD})
+<img width="100px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">
+<img width="400px" src="https://science.osti.gov/assets/img/doe-logos/logo.png">
 
 ### Figures
 
